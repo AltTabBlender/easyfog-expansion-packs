@@ -1,0 +1,27 @@
+{
+  "notifications": [
+    {
+      "id": "welcome_2024_001",
+      "message": "Welcome to Easy Fog 2! Check out the new VDB packs in preferences.",
+      "created": "2024-01-15T10:00:00Z",
+      "priority": "normal",
+      "action_url": "https://example.com/packs",
+      "action_text": "Browse Packs"
+    },
+    {
+      "id": "pack_smoke_004",
+      "message": "New pack available - Smoke Pack 4 with 50+ high-quality VDB files!",
+      "created": "2024-01-16T14:30:00Z",
+      "priority": "high",
+      "action_text": "Get Pack"
+    },
+    {
+      "id": "welcome_2024_001",
+      "message": "Welcome to Easy Fog 2! Check out the new VDB packs in preferences.",
+      "created": "2024-01-15T10:00:00Z",
+      "priority": "normal",
+      "action_url": "https://example.com/packs",
+      "action_text": "Browse Packs"
+    },
+  ]
+}
