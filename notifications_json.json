@@ -1,10 +1,10 @@
 {
   "notifications": [
     {
-      "id": "maintenance_jan_2025",
-      "title": "Scheduled Maintenance",
-      "message": "Servers will be down Jan 1st, 2-4 AM UTC for upgrades.",
-      "date": "2024-12-30", 
+      "id": "TEMPLATE",
+      "title": "TEMPLATE",
+      "message": "TEMPLATE",
+      "date": "2025-31-12", 
       "type": "info",
       "visible": 0
     },
