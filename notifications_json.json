@@ -5,8 +5,16 @@
       "title": "Scheduled Maintenance",
       "message": "Servers will be down Jan 1st, 2-4 AM UTC for upgrades.",
       "date": "2024-12-30", 
-      "type": "warning",
+      "type": "info",
       "visible": 0
-    }       
+    },
+    {
+      "id": "Test 1",
+      "title": "New Pack Available Now!",
+      "message": "Adds these and those types of presets to your pack neki neki.",
+      "date": "2025-17-06", 
+      "type": "info",
+      "visible": 1
+    }
   ]
 }
