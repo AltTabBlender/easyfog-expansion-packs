@@ -1,44 +1,12 @@
 {
   "notifications": [
     {
-      "id": "test_notification_001",
-      "title": "Test Notification",
-      "message": "This is a test notification for the Easy Fog 2 addon! The notification system is working correctly.",
-      "date": "2024-12-19",
-      "type": "info",
-      "priority": 1
-    },
-    {
-      "id": "Test 2",
-      "title": "Test Notification 2",
-      "message": "This is a test notification for the Easy Fog 2 addon! The notification system is working correctly.",
-      "date": "2024-12-19",
-      "type": "info",
-      "priority": 1
-    },
-    {
-      "id": "Test 3",
-      "title": "Test Notification 3",
-      "message": "This is a test notification for the Easy Fog 2 addon! The notification system is working correctly.",
-      "date": "2024-12-19",
-      "type": "info",
-      "priority": 1
-    },
-    {
-      "id": "Test 4",
-      "title": "Test Notification 3",
-      "message": "This is a test notification for the Easy Fog 2 addon! The notification system is working correctly.",
-      "date": "2024-12-19",
-      "type": "info",
-      "priority": 1
-    },
-    {
-      "id": "Test 5",
-      "title": "Test Notification 3",
-      "message": "This is a test notification for the Easy Fog 2 addon! The notification system is working correctly.",
-      "date": "2024-12-19",
-      "type": "info",
-      "priority": 1
-    }        
+      "id": "maintenance_jan_2025",
+      "title": "Scheduled Maintenance",
+      "message": "Servers will be down Jan 1st, 2-4 AM UTC for upgrades.",
+      "date": "2024-12-30", 
+      "type": "warning",
+      "visible": 0
+    }       
   ]
 }
