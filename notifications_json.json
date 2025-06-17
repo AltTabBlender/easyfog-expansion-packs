@@ -1,0 +1,12 @@
+{
+  "notifications": [
+    {
+      "id": "test_notification_001",
+      "title": "Test Notification",
+      "message": "This is a test notification for the Easy Fog 2 addon! The notification system is working correctly.",
+      "date": "2024-12-19",
+      "type": "info",
+      "priority": 1
+    }
+  ]
+}
