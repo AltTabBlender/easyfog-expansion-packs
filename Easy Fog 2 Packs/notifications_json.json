@@ -7,22 +7,6 @@
       "date": "2025-12-31", 
       "type": "info",
       "visible": 0
-    },
-    {
-      "id": "Test_1",
-      "title": "New Pack Available Now!",
-      "message": "Adds these and those types of presets to your pack neki neki.",
-      "date": "2025-07-06", 
-      "type": "info",
-      "visible": 1
-    },
-    {
-      "id": "TEST_PACK",
-      "title": "TEST PACK is LIVE!",
-      "message": "Get it",
-      "date": "2025-12-31", 
-      "type": "info",
-      "visible": 1
     }
   ]
 }
