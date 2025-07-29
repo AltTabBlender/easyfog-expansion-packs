@@ -110,17 +110,6 @@
       "contact_sheet_url": "https://www.dropbox.com/scl/fi/vp2byaae4io0rynf8b8yn/Smoke.3_CS.png?rlkey=imp7tljknmvrn30t380dp5hy0&st=xbwg97c7&dl=0",
       "size_mb": 20500,
       "zipped_size_mb": 11200
-    },
-    {
-      "id": "TEST_PACK",
-      "name": "TEST.PACK",
-      "description": "Light smoke VDB effect",
-      "price": "",
-      "thumbnail_url": "https://raw.githubusercontent.com/AltTabBlender/easyfog-expansion-packs/refs/heads/main/Easy%20Fog%202%20Packs/PackThumbnails/TEST.PACK.png",
-      "download_url": "https://www.dropbox.com/scl/fi/8jkxewhky0oa9nh2b0j7z/TEST_PACK.zip?rlkey=b2ha60bztvfacnv0dk97774q4&st=sqs89nqg&dl=1",
-      "contact_sheet_url": "https://www.dropbox.com/scl/fi/wafb3fd8402jac01c95gv/Magic.2_CS.png?rlkey=7x706j1jbhl1n2x5goyntv2ms&st=za4rnayg&dl=0",
-      "size_mb": 20500,
-      "zipped_size_mb": 11200
     }
   ]
 }
